@@ -25,7 +25,7 @@ inputs:
   url:
     description: "Sonar Server url"
     required: true
-
+ 
   scmProvider:
     description: "SCM provider"
     required: false
